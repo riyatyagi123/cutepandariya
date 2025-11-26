@@ -44,12 +44,6 @@ logs/
 log.txt
 
 # -------------------------
-# Netlify
-# -------------------------
-.netlify/
-functions/
-
-# -------------------------
 # Node (if used in static folder)
 # -------------------------
 node_modules/
